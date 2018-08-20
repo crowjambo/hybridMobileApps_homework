@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "372966476437",
+    "firebase_url": "https://product-database-b96da-default-rtdb.firebaseio.com",
+    "project_id": "product-database-b96da",
+    "storage_bucket": "product-database-b96da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372966476437:android:62b67628c381966243e99c",
+        "android_client_info": {
+          "package_name": "com.viko.hybrid_product_db"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372966476437-nl09ejb5ipu5cvt6absp1ddotas7vitb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIBi47tjsUh_QsO60N1_JuIhsARhSCv_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372966476437-nl09ejb5ipu5cvt6absp1ddotas7vitb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372966476437:android:e327fb3535995b5f43e99c",
+        "android_client_info": {
+          "package_name": "com.viko.product_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372966476437-nl09ejb5ipu5cvt6absp1ddotas7vitb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIBi47tjsUh_QsO60N1_JuIhsARhSCv_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372966476437-nl09ejb5ipu5cvt6absp1ddotas7vitb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
