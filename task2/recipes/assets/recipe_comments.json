@@ -1,0 +1,20 @@
+{
+  "array": [
+    {
+      "recipeID":1,
+      "comments":[
+        {
+          "commentID": 1,
+          "commentTitle": "comment title",
+          "commentBody": "test"
+        }
+      ]
+    },
+    {
+      "recipeID":2,
+      "comments":[
+
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "array": [
+    {
+      "recipeID": 1,
+      "recipeName": "Burger",
+      "recipeDesc": "bread and beef, a classic",
+      "recipeIngredients": "1 buns\n2 patty",
+      "recipeInstructions": {
+        "Step 1": "put burger oon top of a bun",
+        "Step 2": "slap bun on top",
+        "Step 3": "put it in your mouth"
+      },
+      "recipeImage": "assets/images/burger.jpg"
+    },
+    {
+      "recipeID": 2,
+      "recipeName": "Pasta",
+      "recipeDesc": "when you are poor eat this",
+      "recipeIngredients": "1 one package of spaghetti\n2 some water",
+      "recipeInstructions": {
+        "Step 1": "put in the bowl",
+        "Step 2": "blabla",
+        "Step 3": "just cook"
+      },
+      "recipeImage": "assets/images/pasta.jpg"
+    }
+  ]
+}
