@@ -15,5 +15,5 @@ class Product {
     this.name = jsonHashMap["name"].toString();
     this.description = jsonHashMap["description"].toString();
     this.price = jsonHashMap["price"].toString();
-  }
+  } 
 }
